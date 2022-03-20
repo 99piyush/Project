@@ -18,6 +18,11 @@ E-Commerce Website with FAQ Bot
 
 ### Screenshot Of Website :
 ![Screenshot (2)](https://user-images.githubusercontent.com/92153753/159159910-601de58b-2a1a-43bd-b781-245b02001829.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/92153753/159159946-4e32766a-61c9-4c2a-8b8e-3825df63e7c4.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/92153753/159159950-0fc7fec6-18bb-464f-b441-a815d913c3de.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/92153753/159159954-416678ae-b113-42c0-b7d8-86c660cd14ea.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/92153753/159159963-82e7ba91-43f7-466c-9a4c-d228217795ff.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/92153753/159159968-d48f9c12-aa8d-4c9e-8537-5945086d0670.png)
 
 
 ### Problem Statement/Opportunity :
