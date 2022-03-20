@@ -16,6 +16,10 @@ Lifestyle
 E-Commerce Website with FAQ Bot
 
 
+### Screenshot Of Website :
+![Screenshot (2)](https://user-images.githubusercontent.com/92153753/159159910-601de58b-2a1a-43bd-b781-245b02001829.png)
+
+
 ### Problem Statement/Opportunity :
 An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
 
